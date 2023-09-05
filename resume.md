@@ -11,7 +11,7 @@ Boone, NC, USA
  - Cartographic Design and Analysis 
  - Land, Property and Law 
  - Food Insecurity 
-### Skills 
+### Skills
 - Proficient in ArcGIS Pro, ENVI, and Adobe Illustrator
 - Data Research, Proccessing and Analysis
 - Well Versed in LiDAR Interpretation and Analysis 
