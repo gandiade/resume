@@ -3,7 +3,7 @@ ___
 ### Education
 Bachelor of Science, [Community and Regional Planning][https://geo.appstate.edu/]  
 Geographic Information Science (GIS) Certificate  
-Appalachian State University  
+Appalachian State University    
 Boone, NC, USA 
 ### Related Coursework
  - Environmental Remote Sensing 
@@ -26,7 +26,7 @@ Hostess & Food Preparer | Peddler Steakhouse of Boone
 
 
 **Blowing Rock, NC May 22, 2022 - July 15, 2023** 
- Assistant Manager | Artwalk  
+Assistant Manager | Artwalk  
 - Key holder 
 - Responsible for sales 
 - Resolved customer issuses and complaints
